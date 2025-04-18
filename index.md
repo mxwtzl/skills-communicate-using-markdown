@@ -2,4 +2,4 @@
 ## New H2 header 
 ### etc. 
 
-Is this where the commit message goes?
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
